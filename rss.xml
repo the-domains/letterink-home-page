@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Letterink -- Streamline Lettering and digital calligraphy creation]]></title>
-        <description><![CDATA[Letterink -- Streamline Lettering and digital calligraphy creation]]></description>
+        <title><![CDATA[Letterink]]></title>
+        <description><![CDATA[Letterink]]></description>
         <link>https://thegrid.ai/letterink-home-page/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 05:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 16:58:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/letterink-home-page/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Letterink Summer Update - Type Talk]]></title>
-            <description><![CDATA[<article><h1>Letterink Summer Update - Type Talk</h1><p>What is happening with digital pointed nib tool. We worked hard during the summer to come up with a sustainable mathematical solution, that should be able to simulate pointed nib by generating the desired vector outline. At the beginning, we were just two, Martin and me.</p><img src="https://cdn-images-1.medium.com/max/800/0*qiakNGMaptoaHiBO.gif"></article>]]></description>
-            <link>https://thegrid.ai/letterink-home-page/letterink-summer-update-type-talk/index.html</link>
-            <guid isPermaLink="false">c01dbe17-e460-41b9-9f8d-8040afaae0f5</guid>
-            <pubDate>Sun, 13 Dec 2015 05:23:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Create Fonts anytime and anywhere in the world - Type Talk]]></title>
             <description><![CDATA[<article><h1>Create Fonts anytime and anywhere in the world - Type Talk</h1><p>I know, I can still use a laptop, but! Look at your iPad. And now look at your laptop again. And back at your iPad. Do you see the difference? Do you see, what "mobile" really means? And what about the tools you use? Compare it with the intuitive tools on iPad.</p><img src="https://cdn-images-1.medium.com/max/800/desat/multiply/yellow/overlay/yellow/1*JyOS6FJDNvuhdmbqP4_H2A.jpeg"></article>]]></description>
@@ -33,13 +26,6 @@
             <link>https://vimeo.com/127029158</link>
             <guid isPermaLink="false">a107935c-8c52-447e-997e-786acfc9b23a</guid>
             <pubDate>Sun, 13 Dec 2015 05:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Letterink - Simple letters and calligraphy drawing]]></title>
-            <description><![CDATA[<article><h1>Letterink - Simple letters and calligraphy drawing</h1><p>Letterink is tool to create calligraphic letterings with ease. Just draw skeleton and apply any brush.</p></article>]]></description>
-            <link>http://letterinkapp.com/</link>
-            <guid isPermaLink="false">ddf466f1-16fe-4d58-91c7-995f3c6cd25d</guid>
-            <pubDate>Sun, 13 Dec 2015 03:09:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Letterink - Skeleton Presets Concept]]></title>
