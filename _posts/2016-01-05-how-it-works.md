@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Find out how to create calligraphy with Letterink
-datePublished: '2016-01-05T17:14:03.992Z'
-dateModified: '2016-01-05T17:13:50.016Z'
+datePublished: '2016-01-05T17:15:02.419Z'
+dateModified: '2016-01-05T17:14:20.157Z'
 title: How Letterink Works
 author: []
 sourcePath: _posts/2016-01-05-how-it-works.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: how-it-works/index.html
-_type: WebPage
+_type: Article
 
 ---
 # How Letterink Works
