@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - filip
   - zajac
@@ -16,8 +16,8 @@ keywords:
   - apps
   - filmmaking
 description: 'Create Letterings in few minutes. '
-datePublished: '2016-01-05T17:23:44.355Z'
-dateModified: '2016-01-05T17:23:34.392Z'
+datePublished: '2016-01-05T17:24:01.774Z'
+dateModified: '2016-01-05T17:23:46.602Z'
 author:
   - name: Filip Zajac
     url: 'http://vimeo.com/xyzajac'
