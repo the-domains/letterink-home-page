@@ -16,8 +16,8 @@ keywords:
   - apps
   - filmmaking
 description: 'Create Letterings in few minutes. '
-datePublished: '2016-01-05T17:15:52.758Z'
-dateModified: '2016-01-05T17:15:47.924Z'
+datePublished: '2016-01-05T17:23:44.355Z'
+dateModified: '2016-01-05T17:23:34.392Z'
 author:
   - name: Filip Zajac
     url: 'http://vimeo.com/xyzajac'
