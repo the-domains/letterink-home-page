@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -15,9 +15,9 @@ keywords:
   - video
   - skeletons
   - streamline
-description: "Streamline your workflow with Letterink's default skeletons presets."
-datePublished: '2016-01-05T17:01:33.301Z'
-dateModified: '2016-01-05T17:01:20.938Z'
+description: Generator Lodo Design
+datePublished: '2016-01-05T17:21:49.290Z'
+dateModified: '2016-01-05T17:21:42.044Z'
 author:
   - name: Filip Zajac
     url: 'http://vimeo.com/xyzajac'
@@ -62,5 +62,7 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F127029158&amp;url=https%3A%2F%2Fvimeo.com%2F127029158&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F517670836_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+# Logo Design
 
 Design a logotype without effort. Letterink guides you to create professional and unique brand visual. Your logo will be allways stuning.
