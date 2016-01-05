@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - workflow
   - presets
@@ -16,8 +16,8 @@ keywords:
   - skeletons
   - streamline
 description: Generator Lodo Design
-datePublished: '2016-01-05T17:21:49.290Z'
-dateModified: '2016-01-05T17:21:42.044Z'
+datePublished: '2016-01-05T17:23:28.595Z'
+dateModified: '2016-01-05T17:21:58.065Z'
 author:
   - name: Filip Zajac
     url: 'http://vimeo.com/xyzajac'
