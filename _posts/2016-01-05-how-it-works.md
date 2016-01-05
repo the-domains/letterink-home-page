@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Find out how to create calligraphy with Letterink
-datePublished: '2016-01-05T16:51:29.238Z'
-dateModified: '2016-01-05T16:51:13.315Z'
+datePublished: '2016-01-05T17:07:38.910Z'
+dateModified: '2016-01-05T16:55:52.170Z'
 title: How it works
 author: []
 authors: []
