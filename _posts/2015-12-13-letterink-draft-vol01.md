@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Every type designer was waiting for the skeleton based type design. Now it's came true, the digital pointed nib. "
-datePublished: '2016-01-05T17:23:10.700Z'
-dateModified: '2016-01-05T17:22:58.502Z'
+datePublished: '2016-01-12T20:48:52.155Z'
+dateModified: '2016-01-12T20:48:49.504Z'
 author:
   - name: Filip Zajac
     url: 'http://vimeo.com/xyzajac'
