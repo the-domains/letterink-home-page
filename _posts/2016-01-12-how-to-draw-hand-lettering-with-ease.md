@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: how to draw hand lettering
-datePublished: '2016-01-12T19:33:21.397Z'
-dateModified: '2016-01-12T19:33:12.239Z'
+datePublished: '2016-01-12T19:38:18.365Z'
+dateModified: '2016-01-12T19:34:38.162Z'
 title: How to draw hand lettering with ease
 author: []
 sourcePath: _posts/2016-01-12-how-to-draw-hand-lettering-with-ease.md
