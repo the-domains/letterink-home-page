@@ -4,11 +4,11 @@
         <description><![CDATA[Letterink]]></description>
         <link>https://thegrid.ai/letterink-home-page/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 16:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 16:26:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/letterink-home-page/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Create Letterings]]></title>
-            <description><![CDATA[<article><h1>Create Letterings</h1><p>Create Letterings in few minutes. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/737963e8fcffb247242fb006752dcc1a82139479.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Create Letterings</h1><p>Letterink offers you unlimited possibilities for lettering creation. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/737963e8fcffb247242fb006752dcc1a82139479.jpg"></article>]]></description>
             <link>https://thegrid.ai/letterink-home-page/create-letterings/index.html</link>
             <guid isPermaLink="false">e8a4cf53-1ff2-4514-a4df-d1057ca69963</guid>
             <pubDate>Tue, 12 Jan 2016 16:04:09 GMT</pubDate>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/letterink-home-page/type-design/index.html</link>
             <guid isPermaLink="false">b20abd97-def0-4224-addd-6c6763be3b72</guid>
             <pubDate>Tue, 05 Jan 2016 17:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Team]]></title>
+            <description><![CDATA[<article><h1>The Team</h1><p>Here we are the Letterink creators.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/881e3c5daea6fc05934ee9b043d785fd82d9e42e.png"></article>]]></description>
+            <link>https://thegrid.ai/letterink-home-page/the-team/index.html</link>
+            <guid isPermaLink="false">ec54f58e-04aa-4270-8412-648d37bce671</guid>
+            <pubDate>Tue, 12 Jan 2016 16:26:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
